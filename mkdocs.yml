@@ -1,0 +1,6 @@
+site_name: Game-Docs
+site_url: https://game-docs.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
